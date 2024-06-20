@@ -23,8 +23,10 @@ Final line`;
 This tag function allows you to preserve your current indentation and compose multiline strings the same way you would, say, a function with fiddly arguments:
 
 ```typescript
+import s from 'swift-string';
+
 if (true) {
-	return `
+	return s`
 		First line
 		Second line
 		Final line
