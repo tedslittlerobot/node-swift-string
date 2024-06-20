@@ -1,6 +1,6 @@
 {
   "name": "swift-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple string wrapper to make multiline strings nicer",
   "repository": {
     "type": "git",
